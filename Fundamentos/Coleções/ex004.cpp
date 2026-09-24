@@ -18,5 +18,7 @@ int main() // Função principal do programa
     std::cout << "Posição 10: " << notas[10] << std::endl;
 
 
+
+
     return 0;
 }
